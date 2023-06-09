@@ -74,8 +74,7 @@ $ npm run start:prod
 ```
 
 ## Api Documentation
-
-[http://localhost:3001/api/doc](http://localhost:3001/api/doc)
+[https://reqres.in/](https://reqres.in/)]
 
 
 
